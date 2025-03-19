@@ -2,3 +2,6 @@ cn2an
 pypinyin
 openai
 WeTextProcessing
+transformers
+torch
+gradio
