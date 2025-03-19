@@ -6,7 +6,7 @@
 
 基于 [**ChatTTS**](https://github.com/2noise/ChatTTS) ，支持流式输出、音色抽卡、长音频生成和分角色朗读。
 
-[![Open In Colab](https://img.shields.io/badge/Open%20In-Colab-orange?style=for-the-badge)](https://colab.research.google.com/github/6drf21e/ChatTTS_colab/blob/main/chattts_webui_mix.ipynb)
+[![Open In Colab](https://img.shields.io/badge/Open%20In-Colab-orange?style=for-the-badge)](https://colab.research.google.com/github/samjoeyang/ChatTTS_colab/blob/main/chattts_webui_mix.ipynb)
 
 **🏆稳定说话人音色库/区分男女已开源**  项目地址： [ChatTTS_Speaker](https://github.com/6drf21e/ChatTTS_Speaker)
 
